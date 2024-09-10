@@ -1,0 +1,4 @@
+- Explain the benefits of AWS Cloud9
+- Discover four ways to interact with AWS
+- Explain the components of the Serverless Application Model
+- Use SDK and command line tools to create a secure Amazon S3 website
