@@ -79,4 +79,3 @@ Imagine you're a developer working on a web application that stores user-uploade
 - Use the **AWS SDK** to integrate the bucket creation directly into your application's setup script.
 
 Each method achieves the same goal, but the choice of tool depends on whether you're working manually, automating tasks, or integrating AWS services into your code.
-```
