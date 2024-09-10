@@ -1,5 +1,10 @@
 # Building Modern Python Applications on AWS
 
+
+![Building Modern Python Applications on AWS](assets/Untitled%20design.png)
+
+
+
 ## About This Course
 
 **Course Provider:** Amazon Web Services (AWS)  
