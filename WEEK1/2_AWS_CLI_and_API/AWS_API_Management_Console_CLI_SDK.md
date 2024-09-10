@@ -1,4 +1,3 @@
-```md
 # Introduction to AWS API Management, Console, CLI, and SDK
 
 In this module, we'll explore four key ways to interact with Amazon Web Services (AWS): the AWS Management Console, the AWS Command Line Interface (CLI), the AWS Software Development Kit (SDK), and direct interaction with the AWS API. Each of these tools provides a different level of access and control over AWS services, and understanding how they work will help you choose the right tool for the task at hand.
