@@ -80,12 +80,6 @@ This section will be updated as I progress through the course, documenting compl
 - Module 6: API Optimization and Best Practices
 - Final Project: Building a Complete Serverless Backend on AWS
 
-## Repository Structure
-
-- `/notes`: Course notes and key takeaways.
-- `/projects`: Hands-on projects and code samples.
-- `/assignments`: Course assignments and solutions.
-
 ## License
 
 This repository is for personal learning and documentation purposes only. Please do not copy or distribute any material without permission.
